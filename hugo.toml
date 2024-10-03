@@ -1,0 +1,25 @@
+baseURL = "/"
+
+title = "Toolkit"
+theme = "fromago"
+
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+enableInlineShortcodes = true
+removePathAccents = true
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[languages]
+  [languages.fr]
+    languageCode = "fr"
+    languageName = "Français"
+    weight = 1
+    title = "Fromago"
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    title = "Fromago"
+
