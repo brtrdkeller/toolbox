@@ -7,6 +7,7 @@
     {{ partialCached "content.html" .Content .Content }}
     <div>
     <hr>
+    {{- .Sections }}
     {{- range .Pages }}
     {{- if or (eq (isset .Params "sitemapexclude") false) (ne .Params.sitemapExclude true) -}}
       <div>

@@ -56,9 +56,12 @@
   {{- end -}}
   <!-- CSS styles -->
   <!-- CSS critical -->
+  <link rel="stylesheet" href="{{ $layout.Permalink }}" {{ with $layout.Data.Integrity }}integrity="{{ . }}"{{- end -}} media="screen">
+  <link rel="stylesheet" href="{{ $main.Permalink }}" {{ with $main.Data.Integrity }}integrity="{{ . }}"{{- end -}} media="screen">
   <style id="style-screen">
     {{ (slice $style $main $layout | resources.Concat "styles.css" | minify).Content | safeCSS }}
   </style>
+
 
   <!-- RSS -->
   {{- with .OutputFormats.Get "RSS" -}}
@@ -109,6 +112,7 @@
   </script>
 </head>
 <body class="hugo-{{ .Kind }} debug">
+  {{ $layout }}
   <div class="skip-links" role="navigation">
     <a href="#nav">{{ i18n "nav-skiplinks-menu" }}</a>
     <a href="#main">{{ i18n "nav-skiplinks-content" }}</a>
