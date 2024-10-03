@@ -19,6 +19,11 @@
 
 /* = section = */
 
+.section-line {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid lightgrey;
+}
+
 section:not(.section-line) {
   margin: 0 auto var(--baseline,1.5em);
   padding-top: var(--baseline,1.5em);

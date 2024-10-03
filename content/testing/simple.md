@@ -1,4 +1,5 @@
 ---
+title: Formulaire
 ---
 <form>
 <fieldset>
