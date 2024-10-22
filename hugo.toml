@@ -16,10 +16,10 @@ removePathAccents = true
     languageCode = "fr"
     languageName = "Français"
     weight = 1
-    title = "Fromago"
+    title = "Toolkit"
   [languages.en]
     languageCode = "en"
     languageName = "English"
     weight = 2
-    title = "Fromago"
+    title = "Toolkit"
 

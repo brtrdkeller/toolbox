@@ -6,13 +6,12 @@
     {{ .Params.description | markdownify }}
     {{ partialCached "content.html" .Content .Content }}
     <div>
-    <hr>
     {{- range .Pages }}
     {{- if or (eq (isset .Params "sitemapexclude") false) (ne .Params.sitemapExclude true) -}}
       <div>
         {{- $path := "" }}
         {{- with .File }}{{ $path = .Path }}{{ else }}{{ $path := path.Dir .Path }}{{ end }}
-        <h2 class="title-main"><a href="{{ .Permalink }}">{{ if .Title }}{{ .Title }}{{ else }}{{ replace (path.Base $path) (path.Ext $path) "" }}{{ end }}</a></h2>
+        <h2><a href="{{ .Permalink }}">{{ if .Title }}{{ .Title }}{{ else }}{{ replace (path.Base $path) (path.Ext $path) "" }}{{ end }}</a></h2>
           {{- if or .Date ($.Scratch.Get "hassection") -}}
           <p style="display:block;margin-top:-1.5em;">
             {{- if .Date -}}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">{{ .Date.Day }} {{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}</time>{{ end }}
@@ -23,9 +22,9 @@
           <p>{{ . }}</p>
           {{- end -}}
         </div>
+    {{ end -}} 
     {{ end -}}
-      </div>
-    {{ end -}}
+  </div>
   </section>
 </div>
 {{ end }}
