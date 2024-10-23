@@ -10,7 +10,7 @@ description: Reading about digital accessibility
 
  * [A11Y Coffee](https://a11y.coffee/intro/)
 
-### For intermediates
+### For intermediaries
 
  * [A11Y Project](https://www.a11yproject.com/posts/)
  * [The A11Y Collective Blog](https://www.a11y-collective.com/blog/)

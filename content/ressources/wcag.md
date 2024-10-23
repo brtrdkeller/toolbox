@@ -13,7 +13,7 @@ description: Discovering WCAG with the W3C
 
 * [https://www.w3.org/WAI/test-evaluate/preliminary/](https://www.w3.org/WAI/test-evaluate/preliminary/)
 
-### For intermediates
+### For intermediaries
 
 * [The Must-Have WCAG Checklist - PDF](https://s45061.pcdn.co/wp-content/uploads/2024/02/The-Must-Have-WCAG-Checklist.pdf)
 * [Accessibility checklist and guidance](https://nhsdigital.github.io/accessibility-checklist/checklist-full/) - table with all the test and a test procedure associate
