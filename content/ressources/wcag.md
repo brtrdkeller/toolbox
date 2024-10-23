@@ -3,7 +3,7 @@ title: WCAG
 description: Discovering WCAG with the W3C
 ---
 
-## Basic principle
+## Basic principles
 
 * [Accessibility Principles](https://www.w3.org/WAI/fundamentals/accessibility-principles/)
 
