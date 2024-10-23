@@ -1,6 +1,6 @@
 ---
-title: writings
-description: reading about digital accessibility
+title: Writings
+description: Reading about digital accessibility
 ---
 
 ## Blog
@@ -8,9 +8,12 @@ description: reading about digital accessibility
 
 ### For beginners
 
+ * [A11Y Coffee](https://a11y.coffee/intro/)
+
+### For intermediates
+
  * [A11Y Project](https://www.a11yproject.com/posts/)
  * [The A11Y Collective Blog](https://www.a11y-collective.com/blog/)
-
 
 ### For experts
 
