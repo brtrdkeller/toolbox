@@ -3,12 +3,11 @@ title: Writings
 description: Reading about digital accessibility
 ---
 
+## Articles
+
+* [Accessibility Testing is like Making Coffee](https://madalyn.dev/blog/a11y-testing-coffee/)
+
 ## Blog
-
-
-### For beginners
-
- * [A11Y Coffee](https://a11y.coffee/intro/)
 
 ### For intermediaries
 
@@ -20,3 +19,7 @@ description: Reading about digital accessibility
  * [Adrian Roselli](https://adrianroselli.com/posts)
  * [Matuzo](https://www.matuzo.at/blog/)
  * [Scott Ohara](https://www.scottohara.me/writing/)
+
+## Videos
+
+* [Heydon Pickering / The Folly of Chasing Demographics](https://www.youtube.com/watch?v=XntrwuBjE5c)

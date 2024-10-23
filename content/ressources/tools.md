@@ -3,6 +3,10 @@ title: Tools
 description: Auditing a site, finding anomalies 
 ---
 
+## Article
+
+* [A Complete Guide To Accessibility Tooling - Smashing Magazine](https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/)
+
 ## Testing
 
 * [Wave Evaluation Tool](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) facilitates human evaluation and educates about accessibility issues
@@ -18,18 +22,31 @@ description: Auditing a site, finding anomalies
 
 ## Screen Readers
 
-### Screen Readers Support
+### Screen Readers Help
 
-https://stevefaulkner.github.io/screen-reader-HTML-support/
+* [Screen Reader Keyboard Shortcuts and Gestures - Deque](https://dequeuniversity.com/screenreaders/)
+* [Screen Readers Support](https://stevefaulkner.github.io/screen-reader-HTML-support/)
 
-### Jaws download
+### Jaws (Windows)
 
 * [JAWS](https://www.freedomscientific.com/products/software/jaws/)
 
-### NVDA download
+### NVDA (Windows)
 
 * [NVDA](https://www.nvda.fr/)
 
-### Screen Reader download (Chrome Extension)
+### Orca (Linux)
+
+* [Orca](https://help.gnome.org/users/orca/stable/introduction.html.en)
+
+### Narrator (Windows)
+
+Already installed on all windows OS.
+
+* [How to use the Narrator screen reader in Windows 10 - Microsoft Video](https://www.youtube.com/watch?v=EiQ8NwdsZCY)
+* [Set up Narrator on your refreshable braille display in Windows 10 - Microsoft Video](https://www.youtube.com/watch?v=P9BAGagnHt8)
+* [How to Use the Windows Magnifier to Zoom in on Parts of Your Screen](https://www.youtube.com/watch?v=bseAvt11R6k)
+
+### Screen Reader (Chrome Extension)
 
 * [Screen Reader](https://chromewebstore.google.com/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn?hl=fr)
