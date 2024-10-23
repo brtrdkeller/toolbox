@@ -22,7 +22,8 @@
 }
 
 .skip-links a:focus {
-  position: static;
+  position: fixed;
   overflow: visible;
   clip: auto;
+  z-index: 1000;
 }

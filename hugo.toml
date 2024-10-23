@@ -3,7 +3,7 @@ baseURL = "/"
 title = "Toolkit"
 theme = "fromago"
 
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableInlineShortcodes = true
 removePathAccents = true
