@@ -1,6 +1,6 @@
 ---
 title: Screen Readers
-description: Screen Readers Resources
+description: Screen Readers Resources, download and control compatibility
 ---
 
 ## Screen Reader Support
