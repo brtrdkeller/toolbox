@@ -13,6 +13,9 @@
           </div>
           {{ end -}}
           <div class="wrapper padding-block pl-4">
+            <p class="mt-2">
+              <span aria-hidden="true">← </span><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+            </p>
             {{ if eq .Section "expertise" }}
               {{- $slug := delimit (first 1 (split (path.Base .File) ".")) "" -}}
               {{- if $slug }}
