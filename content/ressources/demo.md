@@ -1,6 +1,7 @@
 ---
 title: Démonstration de mauvais cas d'accessibilité
 description: Exemple d'interfaces pour tester l'inaccessibilité
+draft: true
 ---
 
 * [Common Accessibility Issues and How to Assess Them](https://openassessittoolkit.github.io/accessible_u/issues.html)

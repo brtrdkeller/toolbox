@@ -1,6 +1,6 @@
 ---
-title: Toolkit
+title: ToolKit
 type: home
 ---
 
-Site de nos outils internes pour la sensibilisation et l'immersion des personnes.
+Site of our internal tools for raising awareness and immersing people.

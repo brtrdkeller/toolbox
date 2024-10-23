@@ -1,4 +1,4 @@
 ---
-title: Ressources
-description: Liens essentiels pour démarrer dans l'accessibilité numérique 
+title: Resources
+description: Essential links for getting started with digital accessibility 
 ---
