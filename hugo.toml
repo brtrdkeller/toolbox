@@ -1,12 +1,17 @@
 baseURL = "/"
 
 title = "Toolkit"
-theme = "fromago"
+theme = ["fromago","sligo"]
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 enableInlineShortcodes = true
 removePathAccents = true
+
+[outputs]
+  _merge = 'deep'
+[cascade]
+  _merge = 'deep'
 
 [markup.goldmark.renderer]
     unsafe = true

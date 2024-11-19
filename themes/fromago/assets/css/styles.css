@@ -14,7 +14,7 @@
 
 :root {
   --background-color: var(--color-primary-dark);
-  --background-color-body: #edf4f8;
+  --background-color-body: #fcfdfe;
   --base-font-name: "Inter";
   --title-font-name: "Inter";
   --base-primary: 240;
