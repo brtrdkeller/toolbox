@@ -14,6 +14,7 @@ description: Auditing a site, finding anomalies
 * [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)  toolbar button with various web developer tools
 * [WCAG Color contrast checker](https://chromewebstore.google.com/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf) check the color contrast between foreground and background of the texts
 * [Assistant RGAA](https://chromewebstore.google.com/detail/assistant-rgaa/cgpmofepeeiaaljkcclfldhaalfpcand) for french audit but give some help
+* [A11ygator](https://a11ygator.chialab.io/)
 
 ## Simulate
 
