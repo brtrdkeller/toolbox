@@ -21,6 +21,10 @@ description: Improving your skills with tutorials, videos...
 * [EASY READ - How to make digital content accessible](https://assets.thespace.org/Accessibility_EasyReads/Digital_accessibility_Best_practice_Easy_Read2.pdf)
 * [Best practices for accessible virtual events ](https://a11y.canada.ca/en/best-practices-for-accessible-virtual-events/)
 
+## Toolkit 
+
+* [Accessibility Toolkit for Open Educational Resources (OER)](https://guides.cuny.edu/accessibility/home) - use by  World health organization
+
 ## Social Media
 
 * [10 Simple Ways to Make Your Social Media Posts Accessible ](https://www.digitalaccesstraining.com/pages/articles?p=10-simple-ways-to-make-your-social-media-posts-accessible)
@@ -41,3 +45,7 @@ description: Improving your skills with tutorials, videos...
 
 * [Inclusive Components](https://inclusive-components.design/)
 * [Code Library](https://dequeuniversity.com/library/#)
+
+## Learning HTML
+
+ * [HTML For People](https://htmlforpeople.com/)
