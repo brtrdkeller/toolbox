@@ -9,7 +9,7 @@ Here are some examples of action plans based on different modules already encoun
 
 A WCAG translation could be an official initiative launched with W3C accreditation, but this would require significant investment. A lighter idea would be to focus the work on building a strong community in the country. But even if an unofficial initiative is launched, the revision methodology must follow the same path as the official W3C one. 
 
-Example of actions: 
+### Example of actions: 
 
  * Search for resources in the field and Contact different partners
  * Build a core team & find a community leader
@@ -19,7 +19,7 @@ Example of actions:
 
 ## The general Assessment
  
-Example of actions:
+### Example of actions:
 
  * Select a website panel in different sector
  * Initiate a spreadsheet and collect automated data and this panel
@@ -27,6 +27,8 @@ Example of actions:
  * Reproduce the same procedure on the whole panel every six month
 
 ## A specific Assessment
+
+### Example of actions:
 
 * Select one or two representative providers and try to convince them to bring some improvement
 * Introduce the importance of a strategy of improvement
